@@ -79,7 +79,7 @@ export function Form1() {
             </button>
           </div>
 
-          <div>{JSON.stringify(errors, null, 4)}</div>
+          {/*<div>{JSON.stringify(errors, null, 4)}</div>*/}
         </Form>
       )}
     </Formik>
